@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebBrowser</string>
+    <string name="button_name">Refresh</string>
+    <string name="hint">Url without "http://"</string>
+    <string name="shout_button">Shout out</string>
+    <string name="initialize_button">Initialize</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+</resources>
